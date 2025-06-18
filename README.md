@@ -70,7 +70,7 @@ The demo account comes pre-loaded with sample transactions to showcase all featu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/budget-tracker.git
+   git clone https://github.com/arish-panjwani/budget-tracker.git
    cd budget-tracker
    ```
 
@@ -424,16 +424,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Component Library**: shadcn/ui documentation
 - **Deployment Guide**: Vercel documentation
 
-### Contact
-- **Issues**: GitHub Issues for bug reports
-- **Features**: GitHub Discussions for feature requests
-- **Security**: Email for security vulnerabilities
-
 ---
 
 **Built with ❤️ using Next.js, TypeScript, and Tailwind CSS**
 
 *Transform your financial future with intelligent budget tracking and AI-powered insights.*
-```
-
-This comprehensive README provides detailed documentation of your budget tracker project, highlighting all features, architecture, setup instructions, and technical details. It's perfect for GitHub and will help other developers understand and contribute to your project.
